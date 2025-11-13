@@ -32,8 +32,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/oase-logo-r-registered-white.png",
-    "dark": "/logo/oase-logo-r-registered-black.png"
+    "light": "/logo/oase-logo-r-registered-black.png",
+    "dark": "/logo/oase-logo-r-registered-white.png"
   },
   "navbar": {
     "links": [
