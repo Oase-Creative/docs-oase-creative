@@ -12,138 +12,172 @@
     "languages": [
       {
         "language": "nl",
-        "groups": [
+        "tabs": [
           {
-            "group": "Algemeen",
-            "pages": [
-              "nl/index",
-              "nl/about",
-              "nl/contact"
+            "tab": "Home",
+            "groups": [
+              {
+                "group": "Welcome",
+                "pages": [
+                  "nl/index"
+                ]
+              },
+              {
+                "group": "Product Listing",
+                "pages": [
+                  "playbooks/nl/product-listing-design-guidelines"
+                ]
+              },
+              {
+                "group": "Brand",
+                "pages": [
+                  "playbooks/nl/brand-discovery",
+                  "playbooks/nl/brand-fotoshoot",
+                  "playbooks/nl/brandbook"
+                ]
+              },
+              {
+                "group": "Photography",
+                "pages": [
+                  "playbooks/nl/productfotografie"
+                ]
+              },
+              {
+                "group": "Design",
+                "pages": [
+                  "playbooks/nl/packaging-design",
+                  "playbooks/nl/3d-modeling"
+                ]
+              },
+              {
+                "group": "Web & Development",
+                "pages": [
+                  "playbooks/nl/website",
+                  "playbooks/nl/shopify-webshop"
+                ]
+              },
+              {
+                "group": "Content & Marketing",
+                "pages": [
+                  "playbooks/nl/copywriting",
+                  "playbooks/nl/seo"
+                ]
+              },
+              {
+                "group": "Video & Commercial",
+                "pages": [
+                  "playbooks/nl/product-commercial"
+                ]
+              },
+              {
+                "group": "Documentation",
+                "pages": [
+                  "playbooks/nl/handleidingen"
+                ]
+              }
             ]
           },
           {
-            "group": "Product Listing",
-            "pages": [
-              "playbooks/nl/listing-design",
-              "playbooks/nl/product-listing-basis-plus",
-              "playbooks/nl/product-listing-pro",
-              "playbooks/nl/product-listing-pro-plus"
-            ]
-          },
-          {
-            "group": "Brand",
-            "pages": [
-              "playbooks/nl/brand-discovery",
-              "playbooks/nl/brand-fotoshoot",
-              "playbooks/nl/brandbook"
-            ]
-          },
-          {
-            "group": "Photography",
-            "pages": [
-              "playbooks/nl/productfotografie"
-            ]
-          },
-          {
-            "group": "Design",
-            "pages": [
-              "playbooks/nl/packaging-design",
-              "playbooks/nl/3d-modeling"
-            ]
-          },
-          {
-            "group": "Web & Development",
-            "pages": [
-              "playbooks/nl/website",
-              "playbooks/nl/shopify-webshop"
-            ]
-          },
-          {
-            "group": "Content & Marketing",
-            "pages": [
-              "playbooks/nl/copywriting",
-              "playbooks/nl/seo"
-            ]
-          },
-          {
-            "group": "Video & Commercial",
-            "pages": [
-              "playbooks/nl/product-commercial"
-            ]
-          },
-          {
-            "group": "Documentation",
-            "pages": [
-              "playbooks/nl/handleidingen"
+            "tab": "Over ons",
+            "groups": [
+              {
+                "group": "Over ons",
+                "pages": [
+                  "nl/about"
+                ]
+              },
+              {
+                "group": "Contact",
+                "pages": [
+                  "nl/contact"
+                ]
+              }
             ]
           }
         ]
       },
       {
         "language": "en",
-        "groups": [
+        "tabs": [
           {
-            "group": "General",
-            "pages": [
-              "en/index",
-              "en/about",
-              "en/contact"
+            "tab": "Home",
+            "groups": [
+              {
+                "group": "Welcome",
+                "pages": [
+                  "en/index"
+                ]
+              },
+              {
+                "group": "Product Listing",
+                "pages": [
+                  "playbooks/en/product-listing-design-guidelines"
+                ]
+              },
+              {
+                "group": "Brand",
+                "pages": [
+                  "playbooks/en/brand-discovery",
+                  "playbooks/en/brand-fotoshoot",
+                  "playbooks/en/brandbook"
+                ]
+              },
+              {
+                "group": "Photography",
+                "pages": [
+                  "playbooks/en/productfotografie"
+                ]
+              },
+              {
+                "group": "Design",
+                "pages": [
+                  "playbooks/en/packaging-design",
+                  "playbooks/en/3d-modeling"
+                ]
+              },
+              {
+                "group": "Web & Development",
+                "pages": [
+                  "playbooks/en/website",
+                  "playbooks/en/shopify-webshop"
+                ]
+              },
+              {
+                "group": "Content & Marketing",
+                "pages": [
+                  "playbooks/en/copywriting",
+                  "playbooks/en/seo"
+                ]
+              },
+              {
+                "group": "Video & Commercial",
+                "pages": [
+                  "playbooks/en/product-commercial"
+                ]
+              },
+              {
+                "group": "Documentation",
+                "pages": [
+                  "playbooks/en/handleidingen"
+                ]
+              }
             ]
           },
           {
-            "group": "Product Listing",
-            "pages": [
-              "playbooks/en/listing-design",
-              "playbooks/en/product-listing-basis-plus",
-              "playbooks/en/product-listing-pro",
-              "playbooks/en/product-listing-pro-plus"
-            ]
-          },
-          {
-            "group": "Brand",
-            "pages": [
-              "playbooks/en/brand-discovery",
-              "playbooks/en/brand-fotoshoot",
-              "playbooks/en/brandbook"
-            ]
-          },
-          {
-            "group": "Photography",
-            "pages": [
-              "playbooks/en/productfotografie"
-            ]
-          },
-          {
-            "group": "Design",
-            "pages": [
-              "playbooks/en/packaging-design",
-              "playbooks/en/3d-modeling"
-            ]
-          },
-          {
-            "group": "Web & Development",
-            "pages": [
-              "playbooks/en/website",
-              "playbooks/en/shopify-webshop"
-            ]
-          },
-          {
-            "group": "Content & Marketing",
-            "pages": [
-              "playbooks/en/copywriting",
-              "playbooks/en/seo"
-            ]
-          },
-          {
-            "group": "Video & Commercial",
-            "pages": [
-              "playbooks/en/product-commercial"
-            ]
-          },
-          {
-            "group": "Documentation",
-            "pages": [
-              "playbooks/en/handleidingen"
+            "tab": "About",
+            "groups": [
+              {
+                "group": "About",
+                "pages": [
+                  "en/about"
+                ]
+              },
+              {
+                "group": "Contact",
+                "pages": [
+                  "en/contact"
+                ]
+              }
             ]
           }
         ]
