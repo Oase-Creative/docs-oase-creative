@@ -17,7 +17,7 @@
             "tab": "Home",
             "groups": [
               {
-                "group": "Welcome",
+                "group": "Welkom",
                 "pages": [
                   "nl/index"
                 ]
@@ -29,7 +29,7 @@
                 ]
               },
               {
-                "group": "Brand",
+                "group": "Branding",
                 "pages": [
                   "playbooks/nl/brand-discovery",
                   "playbooks/nl/brand-fotoshoot",
@@ -37,7 +37,7 @@
                 ]
               },
               {
-                "group": "Photography",
+                "group": "Fotografie",
                 "pages": [
                   "playbooks/nl/productfotografie"
                 ]
@@ -70,7 +70,7 @@
                 ]
               },
               {
-                "group": "Documentation",
+                "group": "Documentatie",
                 "pages": [
                   "playbooks/nl/handleidingen"
                 ]
